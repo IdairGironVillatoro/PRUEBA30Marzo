@@ -36,6 +36,9 @@ public class PRUEBA30Marzo {
        System.out.println("Direccion: Huehuetenango Zona 8");
        System.out.println("Telefono: 55928636");
         
+       System.out.println("Nombre: Victor Daniel Tejeda Hernández");
+       System.out.println("Direccion: Huehuetenango  Zona 8");
+       System.out.println("Telefono: 34175073");  
     }
     
 }
