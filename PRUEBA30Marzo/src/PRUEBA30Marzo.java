@@ -30,6 +30,12 @@ public class PRUEBA30Marzo {
         System.out.println("Nombre..."+Nombre);
         System.out.println("Dirección..."+Direccion);
         System.out.println("Numero Telefonico..."+telefono);
+        
+        
+       System.out.println("Nombre: José Alejandro López Ramírez");
+       System.out.println("Direccion: Huehuetenango Zona 8");
+       System.out.println("Telefono: 55928636");
+        
     }
     
 }
